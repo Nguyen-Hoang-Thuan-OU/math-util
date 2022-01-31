@@ -39,7 +39,7 @@ public class AdvancedFactorialTest {
                                 {3, 6},
                                 {4, 24},
                                 {5, 120},
-                                {6, 7720}
+                                {6, 720}
                                };
     }
     
