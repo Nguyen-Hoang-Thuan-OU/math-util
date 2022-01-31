@@ -42,6 +42,7 @@ public class AdvancedFactorialTest {
                                 {6, 720}
                                };
     }
+    
     // Chuẩn bị 2 biến để hứng bộ dữ liệu từ mảng
     // sau đó đưa vào hàm test
     
