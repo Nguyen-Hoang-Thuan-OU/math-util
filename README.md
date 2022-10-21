@@ -13,6 +13,6 @@ This repo stores a Java library to support some math operations, e.g. compute th
 * ... (TBA)
 
 ### Screenshot:
-![JUnit - Test-driven development (TDD) and Data-driven testing (DDT)](https://github.com/Nguyen-Hoang-Thuan-OU/math-util/blob/main/images/math-util-intro.png "JUnit - Test-driven development (TDD) and Data-driven testing (DDT))
+![JUnit - Test-driven development and Data-driven testing](https://github.com/Nguyen-Hoang-Thuan-OU/math-util/blob/main/images/math-util-intro.png "JUnit - Test-driven development and Data-driven testing)
 
 © 2022 Bản quyền thuộc về Nguyễn Hoàng Thuận
